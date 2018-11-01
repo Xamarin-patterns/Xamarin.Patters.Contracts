@@ -24,8 +24,16 @@ namespace Xamarin.Aspects.Contracts.Framework
             {
                 if (_commandContract.PreCondition())
                 {
-                    args.Proceed();
+                    _commandContract.PreConditionAsync().ContinueWith(task =>
+                    {
+                        if (task.Result)
+                            args.Proceed();
+                        else
+                        {
+                            args.ReturnValue = false;
 
+                        }
+                    });
                 }
                 else
                 {

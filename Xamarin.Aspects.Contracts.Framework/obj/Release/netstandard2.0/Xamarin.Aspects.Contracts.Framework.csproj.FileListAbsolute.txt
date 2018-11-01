@@ -1,6 +1,7 @@
 C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Framework\bin\Release\netstandard2.0\Xamarin.Aspects.Contracts.Framework.deps.json
 C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Framework\bin\Release\netstandard2.0\Xamarin.Aspects.Contracts.Framework.dll
 C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Framework\bin\Release\netstandard2.0\Xamarin.Aspects.Contracts.Framework.pssym
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Framework\obj\Release\netstandard2.0\Xamarin.Aspects.Contracts.Framework.csprojAssemblyReference.cache
 C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Framework\obj\Release\netstandard2.0\Xamarin.Aspects.Contracts.Framework.csproj.CoreCompileInputs.cache
 C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Framework\obj\Release\netstandard2.0\Xamarin.Aspects.Contracts.Framework.AssemblyInfoInputs.cache
 C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Framework\obj\Release\netstandard2.0\Xamarin.Aspects.Contracts.Framework.AssemblyInfo.cs

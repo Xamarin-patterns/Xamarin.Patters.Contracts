@@ -11,7 +11,7 @@ namespace Xamarin.Aspects.Contracts
 
     public partial class MainPage : ContentPage
 	{
-	    public TestCommand TestCommand => new TestCommand();
+	    public ConstrainedCommand TestCommand => new ConstrainedCommand(() => {});
         public MainPage()
 		{
 			InitializeComponent();
@@ -19,10 +19,6 @@ namespace Xamarin.Aspects.Contracts
 		   
         }
 
-        private void TestCommand_CanExecuteChanged(object sender, EventArgs e)
-        {
-            var x = sender;
-            Console.WriteLine("fired");
-        }
+     
     }
 }

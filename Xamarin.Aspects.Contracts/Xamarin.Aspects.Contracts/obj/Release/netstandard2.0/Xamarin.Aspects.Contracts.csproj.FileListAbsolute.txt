@@ -1,3 +1,7 @@
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\bin\Release\netstandard2.0\Xamarin.Aspects.Contracts.pssym
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\bin\Release\netstandard2.0\Xamarin.Aspects.Contracts.deps.json
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\bin\Release\netstandard2.0\Xamarin.Aspects.Contracts.dll
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\bin\Release\netstandard2.0\Xamarin.Aspects.Contracts.pdb
 C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\bin\Release\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.dll
 C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\bin\Release\netstandard2.0\Xamarin.Aspects.Contracts.Framework.dll
 C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\bin\Release\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.pdb
@@ -8,10 +12,6 @@ C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contrac
 C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\obj\Release\netstandard2.0\Xamarin.Aspects.Contracts.AssemblyInfoInputs.cache
 C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\obj\Release\netstandard2.0\Xamarin.Aspects.Contracts.AssemblyInfo.cs
 C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\obj\Release\netstandard2.0\Xamarin.Aspects.Contracts.csproj.CopyComplete
-C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\bin\Release\netstandard2.0\Xamarin.Aspects.Contracts.pssym
-C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\bin\Release\netstandard2.0\Xamarin.Aspects.Contracts.deps.json
-C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\bin\Release\netstandard2.0\Xamarin.Aspects.Contracts.dll
-C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\bin\Release\netstandard2.0\Xamarin.Aspects.Contracts.pdb
 C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\obj\Release\netstandard2.0\PostSharp\touch
 C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\obj\Release\netstandard2.0\PostSharp\dependencies.txt
 C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts\obj\Release\netstandard2.0\Xamarin.Aspects.Contracts.dll

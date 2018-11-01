@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Symbols LinesOfCode="16" PostSharpLinesOfCode="0" EnhancedTypesCount="1" SchemaVersion="1" PostSharpVersion="6.0.29.0" xmlns="http://schemas.postsharp.org/2.0/symbols">
   <Class Class="#1=T:[Xamarin.Aspects.Contracts.Framework]Xamarin.Aspects.Contracts.Framework.CommandContract">
-    <Instance Declaration="#2=T:[Xamarin.Aspects.Contracts]Xamarin.Aspects.Contracts.TestCommand" Id="1f0c516bae9e9929">
+    <Instance Declaration="#2=T:[Xamarin.Aspects.Contracts]Xamarin.Aspects.Contracts.TestCommand" Id="1f0c516b2b3c5a15">
       <Target LinesAvoided="2">
         <JoinPoint Advising="#1" Description="#3=Introduces method OnCanExecuteChanged" Ordinal="0" LinesAvoided="1" />
         <JoinPoint Advised="#4=M:[Xamarin.Aspects.Contracts]Xamarin.Aspects.Contracts.TestCommand::CanExecute(System.Object)" Advising="#5=T:[Xamarin.Aspects.Contracts.Framework]Xamarin.Aspects.Contracts.Framework.MethodGuard" Description="#6=Intercepted by OnInvoke" />
