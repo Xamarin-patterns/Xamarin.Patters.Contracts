@@ -1,0 +1,12 @@
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\bin\Debug\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.deps.json
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\bin\Debug\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.dll
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\bin\Debug\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.pdb
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\bin\Debug\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.pssym
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\obj\Debug\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.csproj.CoreCompileInputs.cache
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\obj\Debug\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.AssemblyInfoInputs.cache
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\obj\Debug\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.AssemblyInfo.cs
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\obj\Debug\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.dll.postsharp
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\obj\Debug\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.dll
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\obj\Debug\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.pdb
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\obj\Debug\netstandard2.0\PostSharpHost.config
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\obj\Debug\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.csprojResolveAssemblyReference.cache

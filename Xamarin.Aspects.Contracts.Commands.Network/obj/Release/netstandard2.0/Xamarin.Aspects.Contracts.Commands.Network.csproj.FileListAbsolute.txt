@@ -1,0 +1,15 @@
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\bin\Release\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.pssym
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\bin\Release\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.deps.json
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\bin\Release\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.dll
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\bin\Release\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.pdb
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\bin\Release\netstandard2.0\Xamarin.Aspects.Contracts.Framework.dll
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\obj\Release\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.csprojAssemblyReference.cache
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\obj\Release\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.csproj.CoreCompileInputs.cache
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\obj\Release\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.AssemblyInfoInputs.cache
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\obj\Release\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.AssemblyInfo.cs
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\obj\Release\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.csproj.CopyComplete
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\obj\Release\netstandard2.0\PostSharp\touch
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\obj\Release\netstandard2.0\PostSharp\dependencies.txt
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\obj\Release\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.dll
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\obj\Release\netstandard2.0\Xamarin.Aspects.Contracts.Commands.Network.pdb
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\obj\Release\netstandard2.0\PostSharp\postsharp.app.config

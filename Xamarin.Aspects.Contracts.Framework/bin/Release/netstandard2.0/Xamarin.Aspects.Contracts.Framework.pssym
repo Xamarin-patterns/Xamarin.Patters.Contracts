@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols LinesOfCode="19" PostSharpLinesOfCode="0" EnhancedTypesCount="3" SchemaVersion="1" PostSharpVersion="5.0.55.0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[PostSharp]PostSharp.Serialization.PSerializableAttribute">
+    <Instance Declaration="#2=T:[Xamarin.Aspects.Contracts.Framework]Xamarin.Aspects.Contracts.Framework.BaseCommandContract" Id="a59a8b7399b85b9b">
+      <Target />
+    </Instance>
+    <Instance Declaration="#3=T:[Xamarin.Aspects.Contracts.Framework]Xamarin.Aspects.Contracts.Framework.CommandContract" Id="a59a8b739986ba3f">
+      <Target />
+    </Instance>
+    <Instance Declaration="#4=T:[Xamarin.Aspects.Contracts.Framework]Xamarin.Aspects.Contracts.Framework.MethodGuard" Id="a59a8b73b0db631d">
+      <Target />
+    </Instance>
+  </Class>
+</Symbols>

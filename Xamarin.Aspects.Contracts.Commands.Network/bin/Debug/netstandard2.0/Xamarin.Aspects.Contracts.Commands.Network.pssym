@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols LinesOfCode="49" PostSharpLinesOfCode="0" EnhancedTypesCount="2" SchemaVersion="1" PostSharpVersion="5.0.45.0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[PostSharp]PostSharp.Serialization.PSerializableAttribute">
+    <Instance Declaration="#2=T:[Xamarin.Aspects.Contracts.Commands.Network]Xamarin.Aspects.Contracts.Commands.Network.InternetConnectionAvailableContract" Id="2afbe2bf4b859c6b">
+      <Target />
+    </Instance>
+    <Instance Declaration="#3=T:[Xamarin.Aspects.Contracts.Commands.Network]Xamarin.Aspects.Contracts.Commands.Network.InternetMethodGuard" Id="2afbe2bf54050a9b">
+      <Target />
+    </Instance>
+  </Class>
+</Symbols>

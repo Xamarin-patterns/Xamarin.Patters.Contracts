@@ -1,0 +1,2 @@
+C:\ProgramData\PostSharp\6.0.29\bin.Release\netcoreapp2.0\PostSharp.Compiler.Engine.dll
+C:\f\Xamarin.Aspects.Contracts\Xamarin.Aspects.Contracts.Commands.Network\obj\Release\netstandard2.0\PostSharp\postsharp.config
